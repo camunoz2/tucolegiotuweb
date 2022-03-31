@@ -5,7 +5,7 @@ import * as React from "react"
 const IndexPage = () => {
   return (
     <main>
-      <div>Hello!</div>
+      <div className="bg-green-200">Hello!</div>
     </main>
   )
 }
